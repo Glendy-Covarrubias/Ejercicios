@@ -1,0 +1,6 @@
+core-net/bin/
+core-node/build/
+core-node/node_modules/
+my-app-react/node_modules/
+redux-app/node_modules/
+*.log

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CNR42oe81nqXbVCIi1M1mwx00A4IPU5nP8vH414j+uQ=",
+  "Source": "core-net",
+  "BasePath": "_content/core-net",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
