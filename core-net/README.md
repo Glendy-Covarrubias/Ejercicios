@@ -1,4 +1,4 @@
-![imagen1](https://github.com/user-attachments/assets/05f91b7b-f11c-409c-be43-aa935f62589b)# Descripción de la tarea
+# Descripción de la tarea
 Este proyecto consiste en:
 1. **Node.js/Python/.NET** (Selecciona uno o más grupos de ejercicios, según tu nivel de experiencia, puedes realizar el/los ejercicios con cualquier lenguaje de programación que se muestran, el que prefieres):
    - Ejercicio 3:
@@ -29,6 +29,8 @@ Pasos para correr la aplicación
 - 9) Correr el proyecto: Por automático se abrir el navegador hacia swagger `https://localhost:7168/swagger/index.html`
     ![imagen2](https://github.com/user-attachments/assets/887b8ec4-6932-4ce1-b09a-dfd882a2dcaa)
     ![imagen1](https://github.com/user-attachments/assets/224f9473-5d36-4e2d-a1b8-4eaa0054b614)
+
+Pudes consulta en esta URL el funcionamiento final de la app : https://www.awesomescreenshot.com/video/35596188?key=01f551776030c4b5807cf55b1d09f910
 
 
 
