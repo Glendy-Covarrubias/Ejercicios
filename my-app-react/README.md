@@ -1,3 +1,29 @@
+# Descripción de la tarea
+Este proyecto consiste en:
+1. **React**:
+    - Crea un componente funcional llamado `UserList` que obtenga datos de una API y muestre una lista de usuarios con sus nombres y correos electrónicos.
+    - Implementa una funcionalidad de búsqueda que permita filtrar los usuarios por nombre.
+
+# INSTRUCCIONES para instalar, configurar y ejecutar la aplicación
+
+Pasos previos
+Tener Node.js y npm (Node Package Manager) instalados en tu máquina.
+Ejemplo: https://prnt.sc/DJm_e_JPyb0v
+
+Pasos para correr la aplicación
+Paso 1) npm install
+Paso 2) npm run start
+Paso 3) Por automático de abrira el navegador http://localhost:3000/
+Paso 4) Para detener el proyecto control + c y luego cuando pregunte terminar el trabajo por lotes poner S
+
+Pasos para usar la aplicación
+Se Mostrara en pantalla un listado de usuarios https://prnt.sc/ltQ5NXRhdAfq
+my-app-react-photo-1
+Podras capturar un nombre o apellido para la busqueda del registro
+my-app-react-photo-1
+
+
+# INFORMACIÓN QUE TRAE POR DEFAULT UN PROYECTO
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,9 +96,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 **Documentación**: Incluir una documentación clara sobre cómo correr y utilizar la aplicación.
-Pasos previos
-Tener Node.js y npm (Node Package Manager) instalados en tu máquina.
-
-Pasos para correr la aplicación
-Paso 1) npm install
-Paso 2) npm run start
