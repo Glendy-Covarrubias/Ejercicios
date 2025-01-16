@@ -56,9 +56,3 @@ URL API
 }
    - Consulta el resulto de la API: https://prnt.sc/67I-o7QdVFwU
 
- - DeleteProduct
- Delete
- http://127.0.0.1:5000/products/2
- Bearer Token {token}
-    - Consulta el resulto de la API: https://prnt.sc/fe-2N23rJ5YV
-
