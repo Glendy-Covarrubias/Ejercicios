@@ -8,9 +8,9 @@ const router = Router()
 router.post('/login', authenticationController)
 
 router.get('/', validateToken, getTasksController)
-router.post('/', setTaskController)
-router.put('/:id', updateTaskController)
-router.delete('/:id', deleteTaskController)
-router.get('/:id', searchTaskController)
+router.post('/', validateToken, setTaskController)
+router.put('/:id', validateToken, updateTaskController)
+router.delete('/:id', validateToken, deleteTaskController)
+router.get('/:id', validateToken, searchTaskController)
 
 export default router
