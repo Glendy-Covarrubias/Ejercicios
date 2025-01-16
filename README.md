@@ -275,7 +275,7 @@ https://github.com/Glendy-Covarrubias/core-task-manager
 - Organiza el proyecto con una estructura de carpetas clara y modular tanto en el frontend como en el backend (Node.js, Python o .NET).
 - Aplica patrones de diseño y buenas prácticas para asegurar que el código sea limpio y escalable.
 - Documenta brevemente las decisiones arquitectónicas y cualquier configuración especial utilizada.
-Se decidió separar el proyecto backend del frontend para lograr una mayor flexibilidad y escalabilidad en el desarrollo. Esta separación permite que ambos componentes evolucionen de forma independiente, facilitando la incorporación de nuevas tecnologías o funcionalidades sin interferir entre sí. Por último, esta arquitectura facilita la integración con otros servicios y plataformas, aumentando la adaptabilidad del sistema a futuras necesidades del negocio.
+    Se decidió separar el proyecto backend del frontend para lograr una mayor flexibilidad y escalabilidad en el desarrollo. Esta separación permite que ambos componentes evolucionen de forma independiente,     facilitando la incorporación de nuevas tecnologías o funcionalidades sin interferir entre sí. Por último, esta arquitectura facilita la integración con otros servicios y plataformas, aumentando la adaptabilidad del sistema a futuras necesidades del negocio.
 
 #### Entrega
 
