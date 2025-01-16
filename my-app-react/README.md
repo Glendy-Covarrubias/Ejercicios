@@ -18,9 +18,14 @@ Paso 4) Para detener el proyecto control + c y luego cuando pregunte terminar el
 
 Pasos para usar la aplicación
 Se Mostrara en pantalla un listado de usuarios https://prnt.sc/ltQ5NXRhdAfq
-my-app-react-photo-1
+![my-app-react-photo-1](https://github.com/user-attachments/assets/f747011e-119a-4356-9ba2-65d9b99aae05)
+
 Podras capturar un nombre o apellido para la busqueda del registro
-my-app-react-photo-1
+
+
+https://github.com/user-attachments/assets/59c27f4b-9d5f-4b2b-8b71-d0c6efa7c5c1
+
+
 
 
 # INFORMACIÓN QUE TRAE POR DEFAULT UN PROYECTO
