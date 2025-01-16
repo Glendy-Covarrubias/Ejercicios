@@ -18,13 +18,17 @@ Paso 4) Para detener el proyecto control + c y luego cuando pregunte terminar el
 
 Pasos para usar la aplicación
 Se mostrara en pantalla un formulario de entrada de sesion https://prnt.sc/FotklTiLcZhm
-redux-app-1
+![redux-app-1](https://github.com/user-attachments/assets/35e83796-95c7-4462-884f-c89143757cf4)
+
 
 Podras capturar información para la entrada de iniciar sesión (autenticación)
 Despues de iniciar sesión se estara mostrando la entrada a la aplicación
 También se mostrar en pantalla un boton de cierre de sesión
 
-redux-app-1
+
+
+https://github.com/user-attachments/assets/8d73f9fe-2633-42b3-82d2-96842ad5fcc7
+
 
 
 # INFORMACIÓN QUE TRAE POR DEFAULT UN PROYECTO
