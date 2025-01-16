@@ -1,3 +1,33 @@
+# Descripción de la tarea
+Este proyecto consiste en:
+2. **Redux**:
+   - Configura un store de Redux para manejar el estado de autenticación de un usuario.
+   - Crea acciones y reducers para iniciar sesión y cerrar sesión.
+
+# INSTRUCCIONES para instalar, configurar y ejecutar la aplicación
+
+Pasos previos
+Tener Node.js y npm (Node Package Manager) instalados en tu máquina.
+Ejemplo: https://prnt.sc/DJm_e_JPyb0v
+
+Pasos para correr la aplicación
+Paso 1) npm install
+Paso 2) npm run start
+Paso 3) Por automático de abrira el navegador http://localhost:3000/
+Paso 4) Para detener el proyecto control + c y luego cuando pregunte terminar el trabajo por lotes poner S
+
+Pasos para usar la aplicación
+Se mostrara en pantalla un formulario de entrada de sesion https://prnt.sc/FotklTiLcZhm
+redux-app-1
+
+Podras capturar información para la entrada de iniciar sesión (autenticación)
+Despues de iniciar sesión se estara mostrando la entrada a la aplicación
+También se mostrar en pantalla un boton de cierre de sesión
+
+redux-app-1
+
+
+# INFORMACIÓN QUE TRAE POR DEFAULT UN PROYECTO
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
