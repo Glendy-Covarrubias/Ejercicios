@@ -19,13 +19,13 @@ Pasos para usar la API
   "username": "user",
   "password": "password"
  }
- - Consulta el resulto de la API: https://prnt.sc/bIItgcpXxD3d
+    - Consulta el resulto de la API: https://prnt.sc/bIItgcpXxD3d
 
 URL API
  - GetAllProducts
  Get
  http://127.0.0.1:5000/products
- - Consulta el resulto de la API: https://prnt.sc/G76v4OIevge3
+    - Consulta el resulto de la API: https://prnt.sc/G76v4OIevge3
 
  - CreateProduct
  Post
@@ -41,7 +41,7 @@ URL API
  Delete
  http://127.0.0.1:5000/products/2
  Bearer Token {token}
- - Consulta el resulto de la API: https://prnt.sc/fe-2N23rJ5YV
+    - Consulta el resulto de la API: https://prnt.sc/fe-2N23rJ5YV
 
 
  - EditProduct
@@ -54,11 +54,11 @@ URL API
     "name": "Teclado edit",
     "price": 40
 }
-- Consulta el resulto de la API: https://prnt.sc/67I-o7QdVFwU
+   - Consulta el resulto de la API: https://prnt.sc/67I-o7QdVFwU
 
  - DeleteProduct
  Delete
  http://127.0.0.1:5000/products/2
  Bearer Token {token}
- - Consulta el resulto de la API: https://prnt.sc/fe-2N23rJ5YV
+    - Consulta el resulto de la API: https://prnt.sc/fe-2N23rJ5YV
 
