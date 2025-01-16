@@ -40,6 +40,7 @@ URLS API
     http://localhost:3000/api/tasks
     Bearer Token {token}
     https://prnt.sc/2cPxaViPwVvI
+   
     ![core-node-3](https://github.com/user-attachments/assets/2c646861-2aee-4c6d-9e5a-d1c811dc9cbc)
 
 - CreateTask
