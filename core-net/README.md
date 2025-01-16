@@ -1,4 +1,4 @@
-# Descripción de la tarea
+![imagen1](https://github.com/user-attachments/assets/05f91b7b-f11c-409c-be43-aa935f62589b)# Descripción de la tarea
 Este proyecto consiste en:
 1. **Node.js/Python/.NET** (Selecciona uno o más grupos de ejercicios, según tu nivel de experiencia, puedes realizar el/los ejercicios con cualquier lenguaje de programación que se muestran, el que prefieres):
    - Ejercicio 3:
@@ -8,9 +8,10 @@ Este proyecto consiste en:
 
 # INSTRUCCIONES para instalar, configurar y ejecutar la aplicación
 Pasos previos antes de correr la solución
-    - Tener una instancia montada de BD `MS SQL Server / SQL Server`
-    imagen00
-    imagen0
+- 1) Tener una instancia montada de BD `MS SQL Server / SQL Server`
+     ![imagen00](https://github.com/user-attachments/assets/4eba23ef-d657-4bbf-ae5a-f8e6d708834a)
+     ![imagen0](https://github.com/user-attachments/assets/027da399-1205-4a40-8e2b-431e2fa8dcca)
+
 
 Pasos para correr la aplicación
 - 1) Primer paso abrir en visual studio la solución core-net.sln
@@ -26,5 +27,9 @@ Pasos para correr la aplicación
 - 7) Crea la migración: dotnet ef migrations add InitialCreate (Omitir si no presenta nigun error y se corre bien desde el paso 4 y 5)
 - 8) Aplica la migración: dotnet ef database update (Omitir si no presenta nigun error y se corre bien desde el paso 4 y 5)
 - 9) Correr el proyecto: Por automático se abrir el navegador hacia swagger `https://localhost:7168/swagger/index.html`
-    imagen2
-    imagen1
+    ![imagen2](https://github.com/user-attachments/assets/887b8ec4-6932-4ce1-b09a-dfd882a2dcaa)
+    ![imagen1](https://github.com/user-attachments/assets/224f9473-5d36-4e2d-a1b8-4eaa0054b614)
+
+
+
+    
